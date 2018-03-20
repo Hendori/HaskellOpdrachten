@@ -22,6 +22,3 @@ nums = [[1,2],[3]]
 
 add :: Int -> Int -> Int -> Int
 add x y z = x + y + z
-
-copy :: a -> (a, a)
-copy a = (a, a)
